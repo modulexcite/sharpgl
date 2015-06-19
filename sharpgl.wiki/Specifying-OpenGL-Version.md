@@ -1,0 +1,1 @@
+The desired OpenGL version of a render context can be specified by using the ``OpenGLVersion`` of the OpenGL control. This is required to use some features of OpenGL 2.1 onwards. If an OpenGL 2.1 context is not available, then SharpGL will revert to using a 2.1 context.
